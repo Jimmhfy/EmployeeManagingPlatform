@@ -1,0 +1,14 @@
+{
+    "email":"abc@gmail.com",
+    "imageUrl":"https://www.braywickcourtschool.co.uk/wp-content/uploads/2019/02/41026708-example-white-stamp-text-on-red-backgroud.jpg",
+    "jobTitle":"Java",
+    "name":"John",
+    "phone": "2345321"
+}
+{
+    "email":"ccc@gmail.com",
+    "imageUrl":"https://media.istockphoto.com/photos/concept-image-of-a-magnifying-glass-on-blue-background-with-a-word-picture-id1316134499?b=1&k=20&m=1316134499&s=170667a&w=0&h=DsKKZ2Sc6k7bZQpxZTcHyV7AJqyy-haTXYZlrA2Jy-c=",
+    "jobTitle":"PHP",
+    "name":"Andrew",
+    "phone": "98765432"
+}
